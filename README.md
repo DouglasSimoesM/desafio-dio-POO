@@ -1,3 +1,3 @@
-# Desafio Dioa POO
+# Desafio Dio POO
 
 ## Douglas Simões
